@@ -1,0 +1,137 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '9132AF8DF8139F95D582A87D2E2C0C7A',
+    participant: undefined
+  },
+  messageTimestamp: 1679377271,
+  pushName: 'Elías',
+  message: Message {
+    conversation: 'Pedir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pedir',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '3E35D6EBE16810347AD0521EA27D3626',
+    participant: undefined
+  },
+  messageTimestamp: 1679377274,
+  pushName: 'Elías',
+  message: Message {
+    conversation: '1 alas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1 alas',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '071E2C9828D0918A0ED53E6B467E7E71',
+    participant: undefined
+  },
+  messageTimestamp: 1679377277,
+  pushName: 'Elías',
+  message: Message {
+    conversation: 'Confirmar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Confirmar',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '05CA13348FE4F0966D9B40181F4D7B66',
+    participant: undefined
+  },
+  messageTimestamp: 1679377281,
+  pushName: 'Elías',
+  message: Message {
+    locationMessage: LocationMessage {
+      degreesLatitude: 18.3495929,
+      degreesLongitude: -100.6779018,
+      jpegThumbnail: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_location__65cd2f6d-ff2c-4775-bc9d-bbba156669bb',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '9DDC33DDDAD369B03A549ABE4407217C',
+    participant: undefined
+  },
+  messageTimestamp: 1679377287,
+  pushName: 'Elías',
+  message: Message {
+    conversation: 'Aqui mi casa we',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aqui mi casa we',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '38FE9B9012ED4DB523CE5E7DEC8B9B7D',
+    participant: undefined
+  },
+  messageTimestamp: 1679377293,
+  pushName: 'Elías',
+  message: Message {
+    conversation: '7671219876',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7671219876',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '9CEE7EF8E9BC115376E17C5DAB5B961E',
+    participant: undefined
+  },
+  messageTimestamp: 1679377296,
+  pushName: 'Elías',
+  message: Message {
+    conversation: 'Verificar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Verificar',
+  from: '5217671133935'
+}
